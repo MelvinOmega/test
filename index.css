@@ -1,0 +1,21 @@
+h1 {
+color: red;
+font-weight: bold;
+font-style: italic;
+}
+p {
+    background-color: firebrick;
+    border: 1px saddlebrown;
+    padding: 10px;
+    font-style: italic;
+}
+h2 {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}
+h3 {
+    color: maroon;
+    font-weight: bold;
+    font-style: italic;
+}
